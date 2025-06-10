@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img
-      src="https://render.gitanimals.org/farms/yoondanbi"
+      src="https://render.gitanimals.org/farms/Kimdonghyuk0"
       width="500"
       height="200"
     />
